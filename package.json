@@ -1,0 +1,1 @@
+{"description":"Invent a Word We Need — simustall: when two people start talking at the same time and both stop to let the other go first.","license":"MIT","main":"main.ts","name":"invent-a-word-we-need","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
